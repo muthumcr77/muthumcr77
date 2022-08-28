@@ -1,6 +1,7 @@
 # _@mdevroot_
 
 ### Hi there 👋
+I am a full stack developer/solutions engineer primarily focused on Ruby & Ruby on Rails framework.
 
 Currently working on:
 ---

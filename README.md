@@ -52,5 +52,5 @@ Freelance beginner at:
 
 Must watch:
 ---
-[![The Ruby Object Model by Dave Thomas](https://img.youtube.com/vi/X2sgQ38UDVY/0.jpg)](https://www.youtube.com/watch?v=X2sgQ38UDVY)
+[![The Ruby Object Model by Dave Thomas](https://img.youtube.com/vi/X2sgQ38UDVY/0.jpg)](https://www.youtube.com/watch?v=X2sgQ38UDVY)\
 [![Aloha Ruby Conf 2012 - Refactoring from good to great](https://img.youtube.com/vi/DC-pQPq0acs/0.jpg)](https://www.youtube.com/watch?v=DC-pQPq0acs)
